@@ -1,0 +1,27 @@
+body{
+    background-color: #f7f7f7;
+}
+
+.frame{
+    max-width: 350px;
+    min-height: 350px;
+    margin: auto;
+    margin-top: 20vh;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.735);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square{
+    border: 1px solid black;
+    width: 14rem;
+    height: 14rem;
+    position: absolute;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+
