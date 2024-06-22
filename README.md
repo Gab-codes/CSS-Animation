@@ -1,6 +1,5 @@
-Sure, I'd be happy to help you with that! Here's a sample README section for your CSS animation project:
 
-```markdown
+```Markdown
 # CSS Animation Project
 
 ## Overview
